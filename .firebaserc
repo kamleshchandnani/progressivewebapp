@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "demo": "todo",
+    "todo": "todo-d8ac0",
+    "pwademo": "todo-d8ac0",
+    "pwaapp": "pwaapp-678a3"
+  }
+}
